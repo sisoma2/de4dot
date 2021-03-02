@@ -201,4 +201,4 @@ To change the regex(es), you must know the short type name of the obfuscator (se
 Other options
 -------------
 
-Start `de4dot` without any arguments and it will show all options.
+Start `de4dot` without any arguments and it will show all options. 
